@@ -1,1 +1,1 @@
-# Long_tail_cil_robust_feat_global_var
+# Robust Feature Learning and Global Variance-Driven Classifier Alignment for Long-Tail Class Incremental Learning
